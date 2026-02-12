@@ -141,3 +141,10 @@ Question:
   ### _YES_. It improves sorting readability.
 - Why?
   ### For better and easier comparison and reduces time in interpreting performances.
+---
+
+**Task 4: Identify Outliers**
+- Which region is significantly higher or lower?
+### WEST has the higher and NORTH as the lowest.
+- What might explain that difference?
+### It might be because of the higher customer demand or population in the West or its stronger marketing and sales channels that leads to better product availability and distribution while the North has it otherwise.
