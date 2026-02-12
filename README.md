@@ -82,17 +82,62 @@ Question:
 - What business recommendation can you suggest?
   ### Maintain strong marketing and customer retention strategies in West Region and focus more in Electronics. Investigate also the sales drop in 2025 for future improvement. Boost weaker regions by regional promotions or localized strategies.
 ----
-LABORATORY QUESTIONS
-Part A – Technical Questions
+## LABORATORY QUESTIONS
+### Part A – Technical Questions
 1. What are the five columns in the dataset?
-2. What data type is assigned to the “Sales” column?
-3. Which Power BI view allows you to see raw data?
-4. What chart type is best for showing trends over time?
-5. What aggregation is automatically applied to Sales?
+- ### DATE, PRODUCT, CATEGORY, REGION and SALES.
+3. What data type is assigned to the “Sales” column?
+- ### DECIMAL NUMBER
+5. Which Power BI view allows you to see raw data?
+- ### DATA VIEW
+7. What chart type is best for showing trends over time?
+- ### LINE CHART
+9. What aggregation is automatically applied to Sales?
+- ### SUM OF SALES
 
-Part B – Analytical Questions
+### Part B – Analytical Questions
 6. Which region has the highest total sales?
+- ### WEST REGION has the highest total sales.
 7. Which category has the lowest performance?
-8. Are sales increasing, decreasing, or stable?
-9. If you were a manager, which region would you prioritize?
-10. Provide one actionable recommendation based on the data.
+- ### OFFICE SUPPLY has the lowest performance. 
+9. Are sales increasing, decreasing, or stable?
+- ### DECREASING
+11. If you were a manager, which region would you prioritize?
+- ### WEST REGION, as it has the highest revenue contributor and has strong marketing performance.
+13. Provide one actionable recommendation based on the data.
+- ### Focus marketing and inventory investment on Electronics in the West region.
+
+----
+# ENHANCEMENT SECTION
+----
+**Task 1: Add a Card Visualization**
+1. Insert Card
+2. Drag Sales
+3. Format:
+- Increase font size
+- Change title to “Total Sales”
+
+**Question:**
+- What is the total sales amount?
+  ### Total Sales is _220K_
+---
+**Task 2: Add Slicer**
+1. Insert Slicer
+2. Drag Region
+3. Test filtering
+**Question:**
+- What happens to other visuals when you click a region?
+ ### All other visuals update automatically to show data only for the selected region.
+- Why is filtering important in BI?
+  ### It is important in enable to focus analysis and helps identify regional, product or time-based paterns for users to compare segments easily.
+---
+**Task 3: Sort Sales**
+1. Click Region Chart
+2. Click three dots (...)
+3. Sort by Sales Descending
+   
+**Question:**
+- Does sorting improve readability?
+  ### _YES_. It improves sorting readability.
+- Why?
+  ### For better and easier comparison and reduces time in interpreting performances.
