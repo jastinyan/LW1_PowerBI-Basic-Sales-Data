@@ -1,6 +1,8 @@
 <h1 align="center">Laboratory Work 1 - Introduction to Business Intelligence & Power BI</h1>
 <h1 align="center">📊BASIC SALES DATA📊</h1>
 
+-----
+
 ## PART 1: Launching Power BI & Loading Data
 
 <h3 align="center">✅Step 1: Open Power BI Desktop</h3>
@@ -208,6 +210,11 @@ Students must now interpret visuals.
 
 <h3 align="center">✅Task 4: Identify Outliers</h3>
 
+<p align="center">
+  <img src="screenshots/E_Task4.png" width="400">
+</p>
+<p align="center">Highiest and Lowest Performance Region</p>
+
 1. Which region is significantly higher or lower?
 
       Answer: **WEST has the highest and NORTH as the lowest performance.**
@@ -216,11 +223,14 @@ Students must now interpret visuals.
 
       Answer: **It might be because of the higher customer demand or population in the West or its stronger marketing and sales channels that leads to better product availability and distribution while the North has it otherwise.**
 
-<p align="center">
-  <img src="screenshots/E_Task4.png" width="400">
-</p>
-<p align="center">Highiest Performance Region</p>
-<p align="center">
-  <img src="screenshots/E_Task4_2.png" width="400">
-</p>
-<p align="center">Lowest Performance Region</p>
+
+----
+
+<h2 align="center">INSIGHT SUMMARY</h3>
+
+----
+  This laboratory activity demonstrated how Power BI can transform raw sales data into meaningful business insights through visualizations. Using a CSV dataset containing Date, Product, Category, Region, and Sales, various charts and interactive tools were created to analyze overall performance and trends.
+
+  The West region recorded the highest total sales, making it the strongest market, while the North region had the lowest sales, indicating possible weaknesses in demand, distribution, or marketing. In terms of product categories, Electronics dominated total sales with over 90K (around 40.82%), making it the main revenue driver, while Office Supplies had the lowest contribution and may require improvement strategies.
+
+  The sales trend analysis showed a major decline from 2024 to 2025, suggesting unstable performance that requires further investigation. To improve results, the company should strengthen strategies in the West region and Electronics category while addressing weak performance in the North region and Office Supplies. Lastly, the slicer feature highlighted Power BI’s dynamic filtering capability, allowing faster and more focused analysis across different regions and categories.
