@@ -1,8 +1,17 @@
 <h1 align="center">Laboratory Work 1 - Introduction to Business Intelligence & Power BI</h1>
-<h1 align="center">📊BASIC SALES DATA📊</h1>
 
 -----
 
+# Power BI Laboratory Activity
+## Submitted By:
+**Justinian L. Melecio **
+## Laboratory Title:
+**Laboratory Work 1 – Introduction to Business Intelligence & Power BI**
+## PDF Documentation
+**https://drive.google.com/file/d/14aZ5n7J0U5IaC_K1-zeRuGnHf7NYW9rr/view?usp=drive_link**
+
+------
+<h1 align="center">📊BASIC SALES DATA📊</h1>
 ## PART 1: Launching Power BI & Loading Data
 
 <h3 align="center">✅Step 1: Open Power BI Desktop</h3>
